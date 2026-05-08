@@ -61,4 +61,4 @@ Here are some screenshots from the simulation environment:
 
 ## Note on Model Weights
 
-The YOLOv9 weights (e.g., `Finalforthesis1.pt`) are managed via Git LFS due to their large size (~200MB). If you clone the repository without Git LFS, the `.pt` file will only contain a text pointer. Be sure to run `git lfs pull` to download the actual model weights.
+The YOLOv9 weights (e.g., `Finalforthesis1.pt`) are managed via Git LFS due to their large size (~200MB). If you clone the repository without Git LFS, the `.pt` file will only contain a text pointer. Be sure to run `git lfs pull` to download the actual model weight
